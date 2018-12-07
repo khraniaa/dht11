@@ -1,0 +1,19 @@
+#thermometer {
+  display: block;
+  width: 100px;
+  height: 600px;
+
+  background-image: url("img/thermometer.jpg");
+}
+
+
+
+#bargraph {
+  display: block;
+  position: relative;
+  /*height: 161px;*/
+  width: 9px;
+  /*top: 315px;*/
+  left: 45px;
+  background-color: red;
+}
